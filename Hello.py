@@ -1,0 +1,1 @@
+print("Hello, Welcome to the FNB APP Academy")
